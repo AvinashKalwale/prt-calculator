@@ -1,7 +1,7 @@
 body{
     background-color: rgb(127, 221, 119);
 }
-.container{
+.main-container{
     height: 300px;
     width: 300px;
     background-color: aqua;
